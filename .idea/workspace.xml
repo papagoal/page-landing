@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d1a026f-e2d7-404d-b61b-f8bcdb8e78fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Apple.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Banana.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/assert/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Apple.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Apple.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Hello.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/assert/logo.svg" afterDir="false" />
     </list>
@@ -16,9 +20,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="0702" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -41,10 +50,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/assert" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -83,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593710200114</updated>
-      <workItem from="1593710201202" duration="8399000" />
+      <workItem from="1593710201202" duration="13731000" />
     </task>
     <servers />
   </component>

@@ -30,6 +30,28 @@ export default function Apple(props) {
     ) : (
         <div>
             <h2> I am apple </h2>
+            <h1>{props.match.params.id}</h1>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Location</th>
+                        <th>Website</th>
+                        <th>Followers</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>{user.name}</td>
+                        <td>{user.id}</td>
+                        <td>
+                            <a href={user.blog}>{user.blog}</a>
+                        </td>
+                        <td>{user.followers}</td>
+                    </tr>
+                </tbody>
+            </table>
         </div>
     )
 }

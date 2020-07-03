@@ -9,6 +9,8 @@ function Hello() {
                 <h1>Hello</h1>
                 <p>
                     <Link to="./apple">Apple</Link>
+                    <br />
+                    <Link to="./banana">Banana</Link>
                 </p>
             </header>
         </div>
