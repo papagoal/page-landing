@@ -11,6 +11,8 @@ function Hello() {
                     <Link to="./apple">Apple</Link>
                     <br />
                     <Link to="./banana">Banana</Link>
+                    <br />
+                    <Link to="./cherry">Cherry</Link>
                 </p>
             </header>
         </div>
