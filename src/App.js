@@ -3,6 +3,7 @@ import Hello from './Components/Hello'
 import Apple from './Components/Apple'
 import Banana from './Components/Banana'
 import Cherry from './Components/Cherry'
+import Durian from './Components/Durian'
 import { Route, Switch } from 'react-router-dom'
 
 export default function App() {
@@ -12,6 +13,7 @@ export default function App() {
           <Route path="/apple" component={Apple} />
           <Route path="/banana" component={Banana} />
           <Route path="/cherry" component={Cherry} />
+          <Route path="/durian" component={Durian} />
       </Switch>
   );
 }
