@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d1a026f-e2d7-404d-b61b-f8bcdb8e78fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Durian.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/server/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Cherry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cherry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Hello.js" afterDir="false" />
-    </list>
+    <list default="true" id="0d1a026f-e2d7-404d-b61b-f8bcdb8e78fd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +81,7 @@
       <updated>1593710200114</updated>
       <workItem from="1593710201202" duration="13731000" />
       <workItem from="1595354798891" duration="5599000" />
+      <workItem from="1595530174658" duration="348000" />
     </task>
     <servers />
   </component>
