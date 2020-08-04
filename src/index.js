@@ -10,6 +10,12 @@ import { ApolloClient } from 'apollo-client'
 import { createHttpLink } from 'apollo-link-http'
 import { InMemoryCache } from 'apollo-cache-inmemory'
 
+import { Provider } from 'react-redux'
+import { createStore } from 'redux'
+import reducers from './reducer/root'
+
+const store = createStore(reducers)
+
 const httpLink = createHttpLink({
     uri: 'http://localhost:4000'
 })
@@ -20,13 +26,15 @@ const client = new ApolloClient({
 })
 
 ReactDOM.render(
-    <ApolloProvider client={client}>
-        <BrowserRouter>
-            <React.StrictMode>
-                <App />
-            </React.StrictMode>
-        </BrowserRouter>
-    </ApolloProvider>,
+    <Provider store={store}>
+        <ApolloProvider client={client}>
+            <BrowserRouter>
+                <React.StrictMode>
+                    <App />
+                </React.StrictMode>
+            </BrowserRouter>
+        </ApolloProvider>
+    </Provider>,
     document.getElementById('root')
 );
 

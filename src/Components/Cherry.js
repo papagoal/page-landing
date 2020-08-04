@@ -11,7 +11,8 @@ export default class Cherry extends React.Component {
     render() {
         return (
             <div>
-                {this.props.cherry.description} ({this.props.cherry.url})
+                this is cherry
+                {/*{this.props.cherry.description} ({this.props.cherry.url})*/}
             </div>
         );
     }

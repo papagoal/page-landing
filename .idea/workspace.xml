@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d1a026f-e2d7-404d-b61b-f8bcdb8e78fd" name="Default Changelist" comment="" />
+    <list default="true" id="0d1a026f-e2d7-404d-b61b-f8bcdb8e78fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/reducer/marketReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducer/root.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Banana.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Banana.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cherry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cherry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="0702" />
+        <entry key="$PROJECT_DIR$" value="hasura-setup" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,7 +55,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -97,30 +107,43 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1698" y="474" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1593725376749" />
-    <state width="1421" height="424" key="GridCell.Tab.0.bottom" timestamp="1595354789058">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1771" height="269" key="GridCell.Tab.0.bottom" timestamp="1596522350839">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state width="1771" height="269" key="GridCell.Tab.0.bottom/-64.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1596522350839" />
+    <state width="1771" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1595997764168" />
     <state width="1421" height="424" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1595354789058" />
-    <state width="1421" height="424" key="GridCell.Tab.0.center" timestamp="1595354789057">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1771" height="269" key="GridCell.Tab.0.center" timestamp="1596522350838">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state width="1771" height="269" key="GridCell.Tab.0.center/-64.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1596522350838" />
+    <state width="1771" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1595997764167" />
     <state width="1421" height="424" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1595354789057" />
-    <state width="1421" height="424" key="GridCell.Tab.0.left" timestamp="1595354789056">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1771" height="269" key="GridCell.Tab.0.left" timestamp="1596522350837">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state width="1771" height="269" key="GridCell.Tab.0.left/-64.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1596522350837" />
+    <state width="1771" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1595997764166" />
     <state width="1421" height="424" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1595354789056" />
-    <state width="1421" height="424" key="GridCell.Tab.0.right" timestamp="1595354789057">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1771" height="269" key="GridCell.Tab.0.right" timestamp="1596522350838">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state width="1771" height="269" key="GridCell.Tab.0.right/-64.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1596522350838" />
+    <state width="1771" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1595997764168" />
     <state width="1421" height="424" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1595354789057" />
-    <state x="1453" y="359" key="SettingsEditor" timestamp="1593724058699">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="795" y="279" key="SettingsEditor" timestamp="1596523509494">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state x="795" y="279" key="SettingsEditor/-64.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1596523509494" />
     <state x="1453" y="359" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1593724058699" />
     <state x="1551" y="460" key="Vcs.Push.Dialog.v2" timestamp="1595359473292">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1551" y="460" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1595359473292" />
+    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596053786967">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1031@0.23.1792.1031" timestamp="1596053786967" />
     <state x="1625" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1593727090728">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
